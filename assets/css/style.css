@@ -35,13 +35,14 @@ Reset and overrides
 ***/
 /* general body settings */
 *{
-  font-family: '微软雅黑', '宋体';
+  font-family:'微软雅黑' ,'宋体';
+
 }
 body { 
   color: #000; 
   padding: 0px !important;
   margin: 0px !important;
-  font-size:13px; 
+  font-size:16px;
   direction: ltr;
 }
 
@@ -3249,8 +3250,10 @@ Horezantal Menu(new in v1.2)
 }
 
 .header .hor-menu ul.nav li a {
-  font-size: 14px;
-  padding: 11px 18px; 
+  font-size: 18px;
+  padding: 11px 18px;
+
+
 }
 
 .header .hor-menu ul.nav li {

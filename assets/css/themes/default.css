@@ -6,7 +6,7 @@ Default theme
 Reset and overrides  
 ***/
 body {
-  background-color: #3d3d3d !important;
+  background-color: #e42c4e !important;
 }
 /***
 Page header
@@ -14,7 +14,8 @@ Page header
 .header {
   filter: none !important;
   background-image: none !important;
-  background-color: #212121 !important;
+  background-color: #d5d5d5 !important;
+
 }
 .header .btn-navbar {
   background-color: #212121 !important;
